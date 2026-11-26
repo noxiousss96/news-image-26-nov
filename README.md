@@ -1,8 +1,12 @@
 # THE WORLD — Thursday 26 November 2026
 
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/noxiousss96/news-image-26-nov/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/noxiousss96/news-image-26-nov/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+
 A one-image newspaper front page summing up the world's news of
 Thursday 26 November 2026, built for the make.fun
-`news-image-20261126` competition.
+[`news-image-20261126`](https://make.fun/bounty/news-image-20261126) competition.
 
 ## The day's news in the image
 
